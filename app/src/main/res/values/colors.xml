@@ -2,9 +2,7 @@
 <resources>
     <color name="colorPrimary">#EEBA00</color>
     <color name="colorPrimaryDark">#E1A900</color>
-    <color name="myyellow">#FFCD08</color>
-
+    <color name="myyellow">#ffb84d</color>
+    <color name="darkyellow">#FFC107</color>
     <color name="colorAccent">#03DAC5</color>
-    <color name="white">#FFFFFF</color>
-
 </resources>
